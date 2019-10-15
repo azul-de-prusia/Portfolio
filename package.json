@@ -1,8 +1,8 @@
 {
   "name": "portfolio",
-  "homepage": "https://azul-de-prusia.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://azul-de-prusia.github.io/portfolio",
   "dependencies": {
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
