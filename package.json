@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://azul-de-prusia.github.io/portfolio",
   "dependencies": {
+    "gh-pages": "^2.1.1",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "react-scripts": "3.1.2"
@@ -13,7 +14,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "predeploy": "yarn run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
