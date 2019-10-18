@@ -5,7 +5,7 @@ class links extends Component {
 render() {
     return(
     <div className="linkscontainer">
-        <p>Click on the pictures to open up the project you want to see</p>
+        <p className="text">Click on the pictures to open up the project you want to see</p>
          <div className='burgerqueen'> 
                 <a href="https://azul-de-prusia.github.io/Burger-Queen/" tittle="Burger Queen Front-End">
                 <img src="https://i.ibb.co/PFckHhm/Captura.png" alt="cipher"/> </a>
