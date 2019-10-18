@@ -24,7 +24,7 @@ function App() {
       </header>
       <BrowserRouter>
         <li type='circle'>
-                    <Link to="/links">click the images to open up the project you choose</Link>
+                    <Link to="/links">click here to open up the links to see some projects</Link>
                 </li>
             <Route path="/links" component={links}/>
         </BrowserRouter>
