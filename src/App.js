@@ -1,6 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import links from './components/links';
+import {BrowserRouter, Route, Link} from 'react-router-dom';
 
 function App() {
   return (
@@ -8,17 +10,24 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Tegthyn Coral Quiñones Gutiérrez
         </p>
+        <p>Front-End developer</p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+        
         </a>
       </header>
+      <BrowserRouter>
+        <li type='circle'>
+                    <Link to="/links">click the images to open up the project you choose</Link>
+                </li>
+            <Route path="/links" component={links}/>
+        </BrowserRouter>
     </div>
   );
 }
