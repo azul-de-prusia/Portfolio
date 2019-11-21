@@ -1,13 +1,6 @@
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
+  background-color: black;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -15,11 +8,185 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  
 }
 
-.App-link {
-  color: #09d3ac;
+.App-header {
+  background-color: black;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgba(45, 104, 241, 0.823);
 }
+.about{
+  text-align: left;
+}
+ .subtitle, .link, .text{
+  color: aqua;
+}
+
 .linkscontainer{
-  background-color: #282c34; 
+  background-color: black; 
+
+}
+.cipher{
+height: 200px;
+width: 350px;
+border: rgb(2, 10, 35) 4px solid;
+} 
+.rick{
+height: 200px;
+width: 350px;
+border: rgb(2, 10, 35) 8px solid;
+} 
+.mdlink{
+height: 200px;
+width: 350px;
+border: rgb(2, 10, 35) 8px solid;
+}
+ .burger{
+height: 300px;
+width: 200px;
+border: rgb(2, 10, 35) 8px solid;
+}
+
+nav{
+display: flex;
+justify-content: space-between;
+background-color: rgb(70, 70, 194);
+align-items: center;
+padding-left: 20px;
+padding-right: 20px;
+}
+nav ul{
+  list-style: none;
+}
+nav ul li{
+  display: inline-block;
+  margin-right: 8px;
+ 
+}
+nav ul li a{
+  color: aqua;
+}
+.buttonStyle{
+  background-color: transparent;
+  border: transparent;
+  font-size: 16px;
+}
+.contact{
+  background-color: black;
+  text-align: center;
+  color:aquamarine;
+}
+.icon{
+  width: 200px;
+  height: 200px;
+}
+.contactbg{
+ height: 200px;
+ width: 200px;
+ padding-left: 65%
+  ;
+}
+.About, .linkscontainer, .contact, .skills, .useless{
+  color: aqua;
+  text-align: center;
+}
+
+
+
+.useless{
+  text-align: center;
+}
+#flip-container{
+  -webkit-perspective: 1000;
+  perspective: 1000;
+  padding: 500px;
+  position: relative;
+  margin: 10px auto;
+  width: 500px;
+}
+.card {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  transition: 1s;
+  transform-style: preserve-3d;
+  transform-origin: 100% 50%;
+  margin: 5px;
+}
+.card:hover, .card.flip{
+  transform: rotateX(180deg);
+}
+.front, .back{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  text-align: center;
+  
+}
+.front{
+  transform: rotateX(0deg);
+  z-index: 2;
+  background-color:  rgba(42, 42, 42, 0.5);
+  color: #FFF;
+  font: 1em/1.8em Arial;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.back{
+  transform: rotateX(180deg);
+  background-color:  rgba(42, 42, 42, 0.5);
+  color: #000000;
+
+}
+.flip-container ul{
+  list-style: none;
+
+}
+.flip-container ul li{
+  display: inline-block;
+  margin-right: 8px;
+  width:300px;
+  height: 300px;
+}
+#img{
+  height: 300px;
+}
+#imgw{
+  width: 300px;
+}
+
+.About, .skills .linkscontainer{
+  position: relative;
+}
+.About ul, .skills ul{
+  list-style: none;
+}
+.About ul li, .skills ul li{
+  display: inline-block;
+  margin-right: 30px;
+  margin-left: 30px;
+  width:300px;
+  height: 300px;
+  text-align: justify;
+}
+.linkscontainer ul{
+  list-style: none;
+}
+.linkscontainer ul li{
+  display: inline-block;
+  margin-right: 30px;
+  margin-left: 30px;
+  width:300px;
+  height: 300px;
+  text-align: justify;
 }

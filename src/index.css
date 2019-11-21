@@ -11,10 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-.linkscontainer{
-  font-size: 30px;
-}
+
 .text{
  font-size: 26px;
  background-color: transparent;
+}
+.logo{
+  height: 200px;
+  width: 200px;
+}
+.app{
+  text-align: left;
 }
