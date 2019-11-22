@@ -21,7 +21,7 @@
   font-size: calc(10px + 2vmin);
   color: rgba(45, 104, 241, 0.823);
 }
-.about{
+.About{
   text-align: left;
 }
  .subtitle, .link, .text{
@@ -60,14 +60,15 @@ background-color: rgb(70, 70, 194);
 align-items: center;
 padding-left: 20px;
 padding-right: 20px;
+font-size: 22px;
 }
 nav ul{
   list-style: none;
+
 }
 nav ul li{
   display: inline-block;
   margin-right: 8px;
- 
 }
 nav ul li a{
   color: aqua;
@@ -75,7 +76,7 @@ nav ul li a{
 .buttonStyle{
   background-color: transparent;
   border: transparent;
-  font-size: 16px;
+  font-size: 19px;
 }
 .contact{
   background-color: black;
@@ -145,7 +146,7 @@ nav ul li a{
 .back{
   transform: rotateX(180deg);
   background-color:  rgba(42, 42, 42, 0.5);
-  color: #000000;
+  color: #656363;
 
 }
 .flip-container ul{
@@ -174,10 +175,12 @@ nav ul li a{
 .About ul li, .skills ul li{
   display: inline-block;
   margin-right: 30px;
-  margin-left: 30px;
-  width:300px;
+  margin-left: 0px;
+  width:400px;
   height: 300px;
   text-align: justify;
+  font-size: 18px;
+  vertical-align: top;
 }
 .linkscontainer ul{
   list-style: none;
@@ -186,7 +189,14 @@ nav ul li a{
   display: inline-block;
   margin-right: 30px;
   margin-left: 30px;
-  width:300px;
-  height: 300px;
+ 
   text-align: justify;
+}
+
+.icon{
+  width: 50px;
+  height: 50px;
+}
+.iconw{
+width: 50px;
 }

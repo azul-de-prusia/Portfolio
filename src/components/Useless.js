@@ -129,7 +129,7 @@ class Useless extends Component{
                                 <div class="front"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeDmXj19Fi32Jt0W7pn7mgFArb9UZv3_nR_LOKB7S57arTS6Xv" alt="" id="img"></img></div>
                                     <div class="back">
                                         <h1>The stranger, by Albert Camus</h1>
-                                    <p>Polish painter, photographer and sculptor. He executed his drawings and paintings of a genre that he himself called baroque or gothic.</p>
+                                    <p>The stranger is the first novel by the French writer Albert Camus, published in 1942. The foreigner is usually associated with the philosophy of absurdity and existentialism, although Camus always distanced himself from this last label.</p>
                                  </div>
                             </div>
                         </li>
@@ -137,8 +137,8 @@ class Useless extends Component{
                             <div id="card1" class="card">
                                 <div class="front"><img src="https://i.ibb.co/6nKRvS6/arthur.jpg" alt="" id="img"></img></div>
                                     <div class="back">
-                                        <h1>Arthur Schopenhauer</h1>
-                                    <p>Polish painter, photographer and sculptor. He executed his drawings and paintings of a genre that he himself called baroque or gothic.</p>
+                                        <h2>Arthur Schopenhauer</h2>
+                                    <p>German philosopher, he is best known for his 1818 work The World as Will and Representation, wherein he characterizes the phenomenal world as the product of a blind and insatiable metaphysical will. Schopenhauer developed an atheistic metaphysical and ethical system that has been described as an exemplary manifestation of philosophical pessimism, rejecting the contemporaneous post-Kantian philosophies of German idealism.</p>
                                  </div>
                             </div>
                         </li>
@@ -146,8 +146,8 @@ class Useless extends Component{
                             <div id="card1" class="card">
                                 <div class="front"><img src="https://i.ibb.co/tDG73jD/sartre.jpg" alt="" id="imgw"></img></div>
                                     <div class="back">
-                                        <h1>The nausea, by Jean Paul Sartre</h1>
-                                    <p>Polish painter, photographer and sculptor. He executed his drawings and paintings of a genre that he himself called baroque or gothic.</p>
+                                        <h2>The nausea, by Jean Paul Sartre</h2>
+                                    <p>After spending a few years traveling, Antoine Roquentin, a thirty-year-old man who enjoys a modest income, is installed in the port city of Bouville dedicated to writing a book about a murky 18th-century aristocrat. However, one day he is assaulted by an unknown sensation, the Nausea, whose revelation as the radical feeling of contingency and the loneliness of the human being will completely change his life of meaning. Published in 1938, "La naúsea" by Jean-Paul Sartre is, along with "El foreigner" by Albert Camus, the novel that most emblematically embodies the flow of existentialist thought</p>
                                  </div>
                             </div>
                         </li>
@@ -155,8 +155,8 @@ class Useless extends Component{
                             <div id="card1" class="card">
                                 <div class="front"><img src="https://i.ibb.co/C79GD7D/sopor.jpg" alt="" id="img"></img></div>
                                     <div class="back">
-                                        <h1>Sopor Aeternus & the ensemble of shadows</h1>
-                                    <p>Polish painter, photographer and sculptor. He executed his drawings and paintings of a genre that he himself called baroque or gothic.</p>
+                                        <h2>Sopor Aeternus & the ensemble of shadows</h2>
+                                    <p> Darkwave musical project based in Frankfurt, founded in 1989 by Anna-Varney Cantodea.Anna-Varney's work is extremely personalized, melancholic and pessimistic, drawing on a number of different musical and visual styles, and has garnered a cult following.</p>
                                  </div>
                             </div>
                         </li>
@@ -166,7 +166,7 @@ class Useless extends Component{
                                 <div class="front"><img src="https://i.ibb.co/zF32VG7/smiths.jpg" alt="" id="img"></img></div>
                                     <div class="back">
                                         <h1>The Smiths</h1>
-                                    <p>Polish painter, photographer and sculptor. He executed his drawings and paintings of a genre that he himself called baroque or gothic.</p>
+                                    <p>Prime exponents of British alternative rock, the Smiths were based around the unlikely partnership of singer-lyricist Morrissey (a reclusive bookworm inspired as much by Oscar Wilde as by his glam-rock heroes the New York Dolls) and budding guitar hero Marr. </p>
                                  </div>
                             </div>
                         </li>
@@ -175,7 +175,7 @@ class Useless extends Component{
                                 <div class="front"><img src="https://i.ibb.co/0hhP8JS/Kazuo-Ohno-and-son.jpg" alt="" id="imgw"></img></div>
                                     <div class="back">
                                         <h1>Butoh dance</h1>
-                                    <p>Polish painter, photographer and sculptor. He executed his drawings and paintings of a genre that he himself called baroque or gothic.</p>
+                                    <p>Is a form of Japanese dance theatre that encompasses a diverse range of activities, techniques and motivations for dance, performance, or movement. Following World War II, butoh arose in 1959 through collaborations between its two key founders Tatsumi Hijikata and Kazuo Ohno.</p>
                                  </div>
                             </div>
                         </li>
@@ -194,7 +194,7 @@ class Useless extends Component{
                             <div id="card1" class="card">
                                 <div class="front"><img src="https://i.ibb.co/bdQSBq8/ezgif-com-crop-4.gif" alt="" id="imgw"></img></div>
                                     <div class="back">
-                                        <h1>Eraserhead, by David Lynch</h1>
+                                        <h2>Eraserhead, by David Lynch</h2>
                                     <p>Eraserhead is a 1977 American experimental body horror film written, produced, and directed by David Lynch. Henry Spencer, a depressed and scary young man, suffers from a few strange nightmares from which he tries to free himself through his imagination. When Henry is invited to dinner at his friend Mary's house, he learns that he has been the father of a baby.</p>
                                  </div>
                             </div>
@@ -203,8 +203,8 @@ class Useless extends Component{
                             <div id="card1" class="card">
                                 <div class="front"><img src="https://i.ibb.co/YNxhKzy/dont-hug-me-in.gif" alt="" id="img"></img></div>
                                     <div class="back">
-                                        <h1>Don´t hug me I´m scared</h1>
-                                    <p>Polish painter, photographer and sculptor. He executed his drawings and paintings of a genre that he himself called baroque or gothic.</p>
+                                        <h2>Don´t hug me I´m scared</h2>
+                                    <p>is a surreal horror comedy web series created by British filmmakers Becky Sloan and Joseph Pelling. It consists of six episodes, released from July 29 2011 to June 19 2016 through the artists' website, YouTube and Vimeo.The series combines segments in live action, puppetry, traditional animation, and computer animation. </p>
                                  </div>
                             </div>
                         </li>
@@ -213,7 +213,7 @@ class Useless extends Component{
                                 <div class="front"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Rick_and_Morty_season_4.png/250px-Rick_and_Morty_season_4.png" alt="" id="img"></img></div>
                                     <div class="back">
                                         <h1>Rick and Morty</h1>
-                                    <p>Polish painter, photographer and sculptor. He executed his drawings and paintings of a genre that he himself called baroque or gothic.</p>
+                                    <p>Is an American television series for adult animation created by Justin Roiland and Dan Harmon for Adult Swim. The series follows the misadventures of a scientist, Rick, and his easily influenced grandson, Morty, who spend time between domestic life and space, time and intergalactic travel.</p>
                                  </div>
                             </div>
                         </li>
@@ -221,8 +221,8 @@ class Useless extends Component{
                             <div id="card1" class="card">
                                 <div class="front"><img src="https://i.ibb.co/8jx6myf/flapjack.jpg" alt="" id="imgw"></img></div>
                                     <div class="back">
-                                        <h1>The marvelous misadventures of Flapjack</h1>
-                                    <p>Polish painter, photographer and sculptor. He executed his drawings and paintings of a genre that he himself called baroque or gothic.</p>
+                                        <h2>The marvelous misadventures of Flapjack</h2>
+                                    <p>Animated series about Flapjack, a naïve young boy who was raised by a whale named Bubbie and is mentored by a salty sea pirate called Captain K'nuckles. Together the trio spend their days in Stormalong Harbor, where most of the show takes place, whilst on the search for the elusive Candied Island. </p>
                                  </div>
                             </div>
                         </li>
@@ -231,7 +231,7 @@ class Useless extends Component{
                                 <div class="front"><img src="https://i.ibb.co/J3ts7XT/twilight.jpg" alt="" id="img"></img></div>
                                     <div class="back">
                                         <h1>The twilight zone</h1>
-                                    <p>Polish painter, photographer and sculptor. He executed his drawings and paintings of a genre that he himself called baroque or gothic.</p>
+                                    <p>American media franchise based on the anthology television series created by Rod Serling. The episodes are in various genres, including fantasy, science fiction, suspense, horror, and psychological thriller, often concluding with a macabre or unexpected twist, and usually with a moral.</p>
                                  </div>
                             </div>
                         </li>
@@ -239,8 +239,8 @@ class Useless extends Component{
                             <div id="card1" class="card">
                                 <div class="front"><img src="https://i.ibb.co/dQfbKzG/adventure-time.jpg" alt="" id="imgw"></img></div>
                                     <div class="back">
-                                        <h1>Adventure Time</h1>
-                                    <p>Polish painter, photographer and sculptor. He executed his drawings and paintings of a genre that he himself called baroque or gothic.</p>
+                                        <h2>Adventure Time</h2>
+                                    <p>American fantasy animated television series created for Cartoon Network. The series follows the adventures of a boy named Finn and his best friend and adoptive brother Jake a dog with the magical power to change shape and size at will. Finn and Jake live in the post-apocalyptic Land of Ooo, where they interact with Princess Bubblegum, the Ice King, Marceline, BMO, and others. </p>
                                  </div>
                             </div>
                         </li>
