@@ -33,34 +33,35 @@
 
 }
 .cipher{
-height: 200px;
-width: 350px;
+height: 160px;
+width: 250px;
 border: rgb(2, 10, 35) 4px solid;
 } 
 .rick{
-height: 200px;
-width: 350px;
+height: 160px;
+width: 250px;
 border: rgb(2, 10, 35) 8px solid;
 } 
 .mdlink{
-height: 200px;
-width: 350px;
+height: 160px;
+width: 250px;
 border: rgb(2, 10, 35) 8px solid;
 }
  .burger{
-height: 300px;
-width: 200px;
+height: 250px;
+width: 160px;
 border: rgb(2, 10, 35) 8px solid;
 }
 
 nav{
 display: flex;
 justify-content: space-between;
-background-color: rgb(70, 70, 194);
+background-color: rgb(83, 89, 193);
 align-items: center;
-padding-left: 20px;
-padding-right: 20px;
-font-size: 22px;
+padding-left: 3%;
+padding-right: 3%;
+padding-bottom: 1%;
+font-size: 82%;
 }
 nav ul{
   list-style: none;
@@ -68,15 +69,24 @@ nav ul{
 }
 nav ul li{
   display: inline-block;
-  margin-right: 8px;
+ 
 }
+nav ul li :hover{
+  -webkit-box-shadow: 0px 0px 15px 13px #000000; 
+  box-shadow: 0px 0px 15px 13px #1d9ec2;
+}
+
+  
 nav ul li a{
   color: aqua;
 }
 .buttonStyle{
   background-color: transparent;
   border: transparent;
-  font-size: 19px;
+  font-size: 15px;
+}
+.text{
+  font-size: 17px;
 }
 .contact{
   background-color: black;
@@ -171,25 +181,49 @@ nav ul li a{
 }
 .About ul, .skills ul{
   list-style: none;
-}
-.About ul li, .skills ul li{
-  display: inline-block;
-  margin-right: 30px;
+  margin-right: 0px;
   margin-left: 0px;
-  width:400px;
+}
+ .skills ul li{
+  display: inline-block;
+  margin-right: 3%;
+  margin-left: 3%;
+  width:19%;
   height: 300px;
   text-align: justify;
   font-size: 18px;
   vertical-align: top;
 }
+
+.small{
+  display: inline-block;
+  margin-right: 3%;
+  margin-left: 3%;
+  width:25%;
+  height: 300px;
+  text-align: justify;
+  font-size: 18px;
+  vertical-align: top;
+}
+.paragraph{
+  display: inline-block;
+  width:35%;
+  height: 300px;
+  text-align: justify;
+  font-size: 18px;
+  vertical-align: top;
+}
+.gif{
+  height:250px;
+  width: 250px;
+}
 .linkscontainer ul{
   list-style: none;
+
 }
 .linkscontainer ul li{
   display: inline-block;
-  margin-right: 30px;
-  margin-left: 30px;
- 
+  margin: 2%;
   text-align: justify;
 }
 

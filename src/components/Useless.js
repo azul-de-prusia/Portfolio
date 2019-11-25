@@ -25,7 +25,7 @@ class Useless extends Component{
                        
                         <li className="card">
                             <div id="card1" class="card">
-                                <div class="front"><img src="https://i.ibb.co/TqmSxyq/remedios.jpg" alt=""></img></div>
+                                <div class="front"><img src="https://i.ibb.co/TqmSxyq/remedios.jpg" alt=""id="imgw"></img></div>
                                     <div class="back">
                                         <h1>Remedios Varo</h1>
                                     <p>PSpanish-Mexican artist who played an integral role in the Mexico City-based Surrealist movement. She is known for her enigmatic paintings of androgynous beings engaged in magic arts or the occult.</p>
