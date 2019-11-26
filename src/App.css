@@ -107,11 +107,24 @@ nav ul li a{
   color: aqua;
   text-align: center;
 }
+.tex{
+  margin-left: 20px;
+  width: 60%;
+  text-align: left;
+  color:aqua;
+  vertical-align: top;
+}
+.home ul li , .contact ul li{
+  display: inline-block;
+}
 
-.home{
-  margin-left: 55px;
-  margin-right: 55px;
-  
+.footer{
+  margin-top: 24%;
+}
+.background{
+  margin: 20px;
+  width: 300px;
+  height: 300px;
 }
 
 .useless{
@@ -188,6 +201,11 @@ nav ul li a{
   margin-right: 0px;
   margin-left: 0px;
 }
+.skills{
+  background-image: url("https://i.ibb.co/6JL6c62/possums-2.jpg");
+ background-repeat: no-repeat;
+ background-size: 98%;
+}
 .skills div h1{
     margin-left: 55px;
   margin-right: 55px;
@@ -201,10 +219,16 @@ nav ul li a{
   text-align: justify;
   font-size: 18px;
   vertical-align: top;
-  color: #63b3fa;
+  color: #000;
+  font-weight: bold;
+  background-color: rgb(128, 128, 128, 0.5);
 }
 .skills ul h3{
   color: rgb(130, 140, 255);
+}
+.ad{
+  background-color: rgba(42, 41, 41, 0.5);
+  color: aqua;
 }
 .small{
   display: inline-block;

@@ -6,7 +6,7 @@ class Skills extends Component{
         return(
             <div className="skills">
                 <h1>Skills</h1>
-                    <h3>Here is a summary of the soft and technical skills that help me achieve my goals at work</h3>
+                    <h3 className="ad">Here is a summary of the soft and technical skills that help me achieve my goals at work</h3>
                         <ul>
                             
                         <h3 className="soft">Soft</h3>
