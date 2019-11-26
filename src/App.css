@@ -103,12 +103,16 @@ nav ul li a{
  padding-left: 65%
   ;
 }
-.About, .linkscontainer, .contact, .skills, .useless{
+.About, .linkscontainer, .contact, .skills, .useless, .home{
   color: aqua;
   text-align: center;
 }
 
-
+.home{
+  margin-left: 55px;
+  margin-right: 55px;
+  text-align: justify;
+}
 
 .useless{
   text-align: center;
