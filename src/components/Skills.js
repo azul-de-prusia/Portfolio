@@ -29,7 +29,7 @@ class Skills extends Component{
                         <p>Goal achievement</p>
                             </li>
                             
-                        <h3>Technical</h3>
+                        <h3 className="tech">Technical</h3>
                         <li>
                         <p>Javascript ES6</p>
                         <p>HTML 5</p>

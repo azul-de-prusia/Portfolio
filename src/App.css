@@ -56,7 +56,8 @@ border: rgb(2, 10, 35) 8px solid;
 nav{
 display: flex;
 justify-content: space-between;
-background-color: rgb(83, 89, 193);
+background-color: rgb(88,7,107);
+background: linear-gradient(90deg, rgba(88,7,107,1) 0%, rgba(174,18,159,1) 46%, rgba(41,162,255,1) 97%);
 align-items: center;
 padding-left: 3%;
 padding-right: 3%;
@@ -202,9 +203,10 @@ nav ul li a{
   margin-left: 0px;
 }
 .skills{
-  background-image: url("https://i.ibb.co/6JL6c62/possums-2.jpg");
+  background-image: url("https://previews.dropbox.com/p/thumb/AApNbWeS7UjVVY4StaFzFv7IGNnkJXJ7X6oGAgrLZ0C5v2ol0dlJY-bqoEfDAuPtobRwt8SewC_dTPPFGY3a2LBGgbAY1CXKOd_HDQaMfZXgm633gGhhfsGdieZBEhwjiTVuZEpD-p7IJpGfJ9-szIIRMdkw1T3KT8XTrYPV419G_ueMmdjj2KtvQiO93QDsbk7-qxvyrfrls3P3iW2-E1b5fsfX-wpJWNxf3pcu8dDtkGT8-FIvY_CqBHS9QWkrZx3P5HURWbNvDYImSt5qikbN6X7c2OwEFrUz9SzRqU1GO-wWTrgFqilVO9L3I2Cv0qUCkhMu5q4iGzZpoSVZI905/p.jpeg?fv_content=true&size_mode=5");
  background-repeat: no-repeat;
- background-size: 98%;
+ background-size: 85%;
+ background-position: center;
 }
 .skills div h1{
     margin-left: 55px;
@@ -223,8 +225,11 @@ nav ul li a{
   font-weight: bold;
   background-color: rgb(128, 128, 128, 0.5);
 }
-.skills ul h3{
-  color: rgb(130, 140, 255);
+.soft{
+  color: #FFF;
+}
+.tech{
+  color: #000000;
 }
 .ad{
   background-color: rgba(42, 41, 41, 0.5);
