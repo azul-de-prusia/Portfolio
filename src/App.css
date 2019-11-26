@@ -215,7 +215,7 @@ nav ul li a{
 }
 .paragraph{
   display: inline-block;
-  width:35%;
+  width:25%;
   height: fit-content;
   text-align: justify;
   font-size: 18px;

@@ -20,7 +20,7 @@ In the long term I would like to develop tools to become a UX/UI designer and cr
                             <p>Native Spanish</p>
                         <p>English B2 level according to the Common European Framework of Reference for Languages (CEFR)</p>
                     </li>
-                <li>
+                <li className="small">
                     <img src="https://i.ibb.co/Gx6j0z6/giphy.gif" alt="" className="gif"></img>
                 </li>
              </ul>            
