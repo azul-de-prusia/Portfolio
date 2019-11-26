@@ -14,7 +14,7 @@ class App extends Component {
             <div>
                 <BrowserRouter>
                 <Navigation navTitle="Tegthyn Coral Quiñones Gutiérrez"/>
-                <Header Title="This is a portfolio" Button="Find out more"/>
+               
                 <Routes></Routes>
                 </BrowserRouter>
             </div>

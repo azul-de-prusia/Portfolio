@@ -38,7 +38,7 @@ class Skills extends Component{
                         <p>Node js</p>
                         <p>Agile methodology</p>
                         <p>Git</p>
-                        
+                        <p>Canvas HTML</p>
                         </li>
                         <li>
                         <p>Image editor; GIMP, Corel Draw, Adobe Photoshop</p>
