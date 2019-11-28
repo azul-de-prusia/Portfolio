@@ -57,7 +57,7 @@ nav{
 display: flex;
 justify-content: space-between;
 background-color: rgb(88,7,107);
-background: linear-gradient(90deg, rgba(88,7,107,1) 0%, rgba(174,18,159,1) 46%, rgba(41,162,255,1) 97%);
+background: linear-gradient(90deg, rgba(111,29,164,1) 10%, rgba(213,66,199,1) 46%, rgba(66,173,255,1) 97%);
 align-items: center;
 padding-left: 3%;
 padding-right: 3%;
