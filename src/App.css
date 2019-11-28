@@ -283,6 +283,16 @@ width: 50px;
 .paragraph{
   width: 80%;
 }
+.tex{
+  width: 75%;
+text-align: justify;
+}
+.background{
+  width: 250px;
+  height: 250px;
+  margin-left: 0%;
+}
+
 .small{
   width: 80%;
 }
