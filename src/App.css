@@ -119,6 +119,9 @@ nav ul li a{
   display: inline-block;
 }
 
+.href{
+  color: aqua;
+}
 .footer{
   margin-top: 24%;
 }
@@ -203,7 +206,7 @@ nav ul li a{
   margin-left: 0px;
 }
 .skills{
-  background-image: url("https://previews.dropbox.com/p/thumb/AApNbWeS7UjVVY4StaFzFv7IGNnkJXJ7X6oGAgrLZ0C5v2ol0dlJY-bqoEfDAuPtobRwt8SewC_dTPPFGY3a2LBGgbAY1CXKOd_HDQaMfZXgm633gGhhfsGdieZBEhwjiTVuZEpD-p7IJpGfJ9-szIIRMdkw1T3KT8XTrYPV419G_ueMmdjj2KtvQiO93QDsbk7-qxvyrfrls3P3iW2-E1b5fsfX-wpJWNxf3pcu8dDtkGT8-FIvY_CqBHS9QWkrZx3P5HURWbNvDYImSt5qikbN6X7c2OwEFrUz9SzRqU1GO-wWTrgFqilVO9L3I2Cv0qUCkhMu5q4iGzZpoSVZI905/p.jpeg?fv_content=true&size_mode=5");
+  background-image: url("https://i.ibb.co/rkGJ6F1/vanitas.jpg");
  background-repeat: no-repeat;
  background-size: 85%;
  background-position: center;
@@ -232,7 +235,7 @@ nav ul li a{
   color: #000000;
 }
 .ad{
-  background-color: rgba(42, 41, 41, 0.5);
+  
   color: aqua;
 }
 .small{
