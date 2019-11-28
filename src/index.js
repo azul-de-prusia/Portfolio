@@ -6,17 +6,17 @@ import Navigation from './components/navigation';
 import Header from './components/header';
 import Routes from './routes';
 import * as serviceWorker from './serviceWorker';
-import { BrowserRouter } from 'react-router-dom';
+import { HashRouter as Router} from 'react-router-dom';
 
 class App extends Component {
     render() {
         return(
             <div>
-                <BrowserRouter>
+                <Router>
                 <Navigation navTitle="Tegthyn Coral Quiñones Gutiérrez"/>
                 
                 <Routes></Routes>
-                </BrowserRouter>
+                </Router>
             </div>
         );
     }
