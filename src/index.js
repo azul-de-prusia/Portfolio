@@ -14,7 +14,7 @@ class App extends Component {
             <div>
                 <BrowserRouter>
                 <Navigation navTitle="Tegthyn Coral Quiñones Gutiérrez"/>
-               
+                
                 <Routes></Routes>
                 </BrowserRouter>
             </div>
