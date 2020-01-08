@@ -9,7 +9,7 @@ class About extends Component{
                 <ul>
                     <li className="paragraph">
                             <p>I have just completed a training as a Front End developer at Laboratoria, a coding bootcamp; we studied the latest technologies of the field.
-I have a B.D  in Cultural Heritage Restoration, and through out my 5-year career, I specialized  in paper restoration. 
+I have a B.D  in Cultural Heritage Restoration, and through out my 7-year career, I specialized  in paper restoration. 
 I´m also a self taught illustrator and madonnari artist.
 I’m a very creative person who loves to learn new things. Currently I'm starting my career at IT as a Front-End developer and I would love improve my Front-End skills and learn more about UX/UI tools.</p>
                             
