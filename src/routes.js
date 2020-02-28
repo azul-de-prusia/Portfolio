@@ -6,7 +6,7 @@ import About from './components/About';
 import Contact from './components/Contact';
 import Display from './components/Display';
 import Useless from './components/Useless';
-import Skills from './components/Skills';
+import Skills from './components/Skills.js';
 
 
 

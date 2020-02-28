@@ -25,32 +25,44 @@
   text-align: left;
 }
  .subtitle, .link, .text{
-  color: aqua;
+  color: rgb(172, 170, 170);
 }
 
 .linkscontainer{
   background-color: black; 
 
 }
-.cipher{
+.Cipher{
 height: 160px;
 width: 250px;
 border: rgb(2, 10, 35) 4px solid;
+margin: 10px;
+
 } 
 .rick{
 height: 160px;
 width: 250px;
 border: rgb(2, 10, 35) 8px solid;
+margin: 10px;
 } 
 .mdlink{
 height: 160px;
 width: 250px;
 border: rgb(2, 10, 35) 8px solid;
+margin: 10px;
+
 }
  .burger{
 height: 250px;
 width: 160px;
 border: rgb(2, 10, 35) 8px solid;
+}
+.burgerqueen{
+  width: 160px;
+}
+.mdlinks, .datalovers, .cipher{
+  width: 250px;
+  
 }
 
 nav{
@@ -92,7 +104,7 @@ nav ul li a{
 .contact{
   background-color: black;
   text-align: center;
-  color:aquamarine;
+  color: rgb(172, 170, 170);
 }
 .icon{
   width: 200px;
@@ -105,14 +117,14 @@ nav ul li a{
   ;
 }
 .About, .linkscontainer, .contact, .skills, .useless, .home{
-  color: aqua;
+  color: rgb(172, 170, 170);
   text-align: center;
 }
 .tex{
   margin-left: 20px;
   width: 60%;
   text-align: left;
-  color:aqua;
+  color: rgb(172, 170, 170);
   vertical-align: top;
 }
 .home ul li , .contact ul li{
@@ -120,7 +132,7 @@ nav ul li a{
 }
 
 .href{
-  color: aqua;
+  color: rgb(172, 170, 170);
 }
 .footer{
   margin-top: 29%;
@@ -236,7 +248,7 @@ nav ul li a{
 }
 .ad{
   
-  color: aqua;
+  color: rgb(172, 170, 170);
 }
 .small{
   display: inline-block;
@@ -267,6 +279,7 @@ nav ul li a{
 .linkscontainer ul li{
   display: inline-block;
   margin: 2%;
+  
   text-align: justify;
 }
 
