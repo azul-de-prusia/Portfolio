@@ -10,7 +10,7 @@ class Home extends Component{
                     <li className="tex">
                 <p>
                     Welcome to my designer portfolio, here you can find some of the projects I´ve worked on,
-                    by using tools as Sketch, Figma, Adobe suite, etc. If you´re interested on my profile,
+                    by using tools as Sketch, Figma, Adobe suite, etc. If you are interested on my profile,
                     want to share feedback or leave some comments you can also find the ways to contact me.  
                 </p>
 
