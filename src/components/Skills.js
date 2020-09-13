@@ -22,7 +22,7 @@ class Skills extends Component{
                         <li>
                         <p>Observer</p>
                         <p>Analytical</p>
-                        <p>Independent</p>
+                        <p>Self driven</p>
                         <p>Patient</p>
                         <p>Adaptable</p>
                         <p>Good writting</p>
@@ -30,7 +30,24 @@ class Skills extends Component{
                             </li>
                             
                         <h3 className="tech">Technical</h3>
+
                         <li>
+                        <p>Sketch</p>
+                        <p>Adobe Photoshop</p>
+                        <p>Adobe Illustrator</p>
+                        <p>Adobe XD</p>
+                        <p>Krita</p>
+                        <p>Corel Draw</p>
+                        <p>Figma</p>
+                        <p>Balsamiq</p>
+                        <p>InVision</p>
+                        <p>Slack</p>
+                        <p>Jira and Trello</p>
+                        
+                            </li>
+
+                        <li>
+                        <p>Responsive web design</p>
                         <p>Javascript ES6</p>
                         <p>HTML 5</p>
                         <p>CSS3</p>
@@ -39,20 +56,9 @@ class Skills extends Component{
                         <p>Agile methodology</p>
                         <p>Git</p>
                         <p>Canvas HTML</p>
-                        <p>Image editor; GIMP, Corel Draw, Adobe Photoshop</p>
-                        </li>
-                        <li>
                         <p>SQL</p>
-                        <p>API rest</p>
-                        <p>C basic</p>
-                       
-                        <p>Marvel and Figma prototyping</p>
-                        <p>Firebase</p>
-                        <p>Responsive web design</p>
-                        <p>Slack</p>
-                        <p>Trello</p>
-                        <p>Krita 2d animation</p>
-                            </li>
+                        </li>
+
                         </ul>
             </div>
 

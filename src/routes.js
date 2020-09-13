@@ -7,6 +7,8 @@ import Contact from './components/Contact';
 import Display from './components/Display';
 import Useless from './components/Useless';
 import Skills from './components/Skills';
+import Tipsi from './components/tipsi';
+import Amco from './components/amco';
 
 
 
@@ -23,6 +25,8 @@ const Routes = () => (
       <Route path="/Display" component ={Display}/>
       <Route path="/Useless" component ={Useless}/>
       <Route path="/Skills" component ={Skills}/>
+      <Route path="/Tipsi" component={Tipsi}/>
+      <Route path="/Amco" component={Amco}/>
       
     </Switch>
    

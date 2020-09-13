@@ -68,8 +68,8 @@ border: rgb(2, 10, 35) 8px solid;
 nav{
 display: flex;
 justify-content: space-between;
-background-color: rgb(88,7,107);
-background: linear-gradient(90deg, rgba(111,29,164,1) 10%, rgba(213,66,199,1) 46%, rgba(66,173,255,1) 97%);
+background-color: rgb(184, 184, 184);
+background: linear-gradient(90deg, rgb(126, 78, 158) 10%, rgb(185, 100, 177) 46%, rgb(139, 178, 207) 97%);
 align-items: center;
 padding-left: 3%;
 padding-right: 3%;
@@ -289,6 +289,32 @@ nav ul li a{
 }
 .iconw{
 width: 50px;
+}
+.small2{
+  display: inline-block;
+  margin-right: 5%;
+  margin-left: 0%;
+  width:25%;
+  height: 300px;
+  text-align: justify;
+  font-size: 18px;
+  vertical-align: top;
+  padding-bottom: 20%;
+}
+
+.sub{
+  font-weight: bolder;
+}
+
+.construction{
+  width: 500px;
+  height: 300px;
+  margin-left: 18%;
+}
+
+.mobile{
+  width: 108px;
+  height: 240px;
 }
 
 

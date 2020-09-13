@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import { Link } from 'react-router-dom';
 
 class Display extends Component {
     
@@ -6,36 +7,42 @@ render() {
     return(
     <div className="linkscontainer">
         <h1>Display projects</h1>
-        <p className="text">Click on the pictures to open up the project you want to see</p>
+        <p>Click on an image to see more about each project.</p>
+        
+        <h2>UI / UX collaborations</h2>
         <ul>
         <li>
-         <div className='burgerqueen'> 
-                <p>React js web for ordering food at a thematic restaurant</p>
-                <a href="https://azul-de-prusia.github.io/Burger-Queen/" tittle="Burger Queen Front-End">
-                <img src="https://i.ibb.co/PFckHhm/Captura.png" className="burger" alt="Burger Queen"/> </a>
+         <div className='mdlinks'> 
+                <p className='sub'>Amco UI / UX projects sample. </p>
+                <p>English method interfaces for websites and native apps for users as teachers, students, parents, school admins, etc.</p>
+                <Link to="/Amco" >
+                <img src="https://www.tomasmoro.ec/wp-content/uploads/2019/06/AMCO.png" className="mdlink" alt="Burger Queen"/> </Link>
+               
             </div>
             </li>
             <li>
          <div className='mdlinks'> 
-         <p>Node library build to find broken links within .md files, runs in CLI</p>
-                <a href="https://i.ibb.co/84KVm4s/Capturas.jpg" tittle="md links">
-                <img src="https://i.ibb.co/84KVm4s/Capturas.jpg"  className="mdlink" alt="Md links"/> </a>
+         <p className='sub'>Tipsi collaboration. </p>
+             <p>Hybrid app for buying wine with home delivery, visual upgrades on the user interface according to the stakeholders needs. </p>
+                
+                <Link to="/Tipsi" ><img src="https://i.ibb.co/7bkp3fR/Captura-de-pantalla-de-2020-09-13-15-22-48.png"  className="mdlink" alt="Md links"/> </Link>
+                
             </div>
             </li>
-            <li>
-         <div className='datalovers'> 
-                <p>Javascript web for filtering, showing data in different ways by using array methods</p>
-                <a href="https://azul-de-prusia.github.io/GDL003-data-lovers/src/" tittle="data lovers" width="50px" height="30px">
-                <img src="https://i.ibb.co/WWm2y43/datalovers.jpg"  className="rick" alt="Data lovers"/> </a>
+        
+       
+            </ul>
+            <ul>
+                <li>
+                    <h2>Video game illustration</h2>
+                <div className='cipher'> 
+            <p className='sub'>Ikigai.</p>
+            <p> 
+                Video game for web developed within a week for the 2020 edition of Women in Game Jam, I contributed with the character creation and illustration of backgrounds, assets and characters. Click on the image to display the game</p>
+                <a href="https://nataliajaimes.itch.io/ikigai" tittle="cipher" width="50px" height="30px">
+                <img src="https://i.ibb.co/vjRgV4n/ezgif-com-gif-maker.gif"  className="Cipher" alt="Cipher"/> </a>
             </div>
-            </li>
-            <li>
-         <div className='cipher'> 
-            <p>Hackathon type of project, made in React js build in 36 hours for improving Bosch mobility</p>
-                <a href=" https://lauramayar.github.io/Boscheck/" tittle="cipher" width="50px" height="30px">
-                <img src="https://i.ibb.co/YyG9Q2q/Capturabpo.jpg"  className="Cipher" alt="Cipher"/> </a>
-            </div>
-            </li>
+                </li>
             </ul>
     </div>
        );
