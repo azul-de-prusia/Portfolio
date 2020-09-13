@@ -9,13 +9,13 @@ class Home extends Component{
                 <ul>
                     <li className="tex">
                 <p>
-                    Welcome to my Front-End developer jr. portfolio, here you can find some projects i´ve worked on,
-                    by using JavaScript, CSS, HTML, React js, Node js and so on. If you´re interested on my profile,
+                    Welcome to my designer portfolio, here you can find some of the projects I´ve worked on,
+                    by using tools as Sketch, Figma, Adobe suite, etc. If you´re interested on my profile,
                     want to share feedback or leave some comments you can also find the ways to contact me.  
                 </p>
 
                 <p className="footer">
-                    This was developed with React js & React router, enjoy.
+                    This was developed by me with React js & React router, enjoy.
                 </p>
                 </li>
                 <li>
