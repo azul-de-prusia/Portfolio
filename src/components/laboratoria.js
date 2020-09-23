@@ -13,7 +13,7 @@ class Laboratoria extends Component{
                      <p>Boscheck</p>
                      <p>Web app build in a 36 hours hackathon for improving Bosch mobility. This proposal was planed to be used in the Bosch buses to take their collaborators to their workspace on time and improving the routes for hoose buses. It takes data from time and place users abord with a QR reader which was the required by the company plus graphics.</p>
                      <img src="https://i.ibb.co/YWbK2BJ/ezgif-com-gif-maker-1.gif" className="lab" alt="Login"/>
-                      </div>
+                      </div> 
                </li>
                 <li>
                 <div> 
