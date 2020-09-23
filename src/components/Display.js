@@ -29,7 +29,15 @@ render() {
                 
             </div>
             </li>
-        
+            <li>
+            <h2>Front-end development & UI / UX </h2>
+         <div className='mdlinks'> 
+         <p className='sub'>Laboratoria bootcamp </p>
+             <p>6 months bootcamp with a front-end developer profile, however all UI/UX works are proposed as well for each project</p>
+                <Link to="/Laboratoria" ><img src="https://miro.medium.com/max/945/1*3ebT5azEfTrKxANOE3BwyA.jpeg"  className="mdlink" alt="Md links"/> </Link>
+                
+            </div>
+            </li>
        
             </ul>
             <ul>
