@@ -6,51 +6,43 @@ class Laboratoria extends Component{
         return(
             <div className="linkscontainer">
                 <h1>Laboratoria</h1>
+                <p>This is a sample of some projects done in Laboratoria, some of them are made individually and some others in small teams in a couple of weeks. In this works we proposed the UI / UX and solve the development front-end </p>
+                <p>Click on an image to display the project you like.</p>
 
                     <ul>
                 <li>
                      <div className="lab"> 
                      <p>Boscheck</p>
-                     <p>Web app build in a 36 hours hackathon for improving Bosch mobility. This proposal was planed to be used in the Bosch buses to take their collaborators to their workspace on time and improving the routes for hoose buses. It takes data from time and place users abord with a QR reader which was the required by the company plus graphics.</p>
-                     <img src="https://i.ibb.co/YWbK2BJ/ezgif-com-gif-maker-1.gif" className="lab" alt="Login"/>
+                     <p>Web app build in a 36 hours hackathon for improving Bosch mobility. This proposal was planed to be used in the Bosch buses to take their collaborators to their workspace on time and improving the routes for hoose buses. It takes data from time and place users abord with a QR reader which was the required by the company plus graphics. Uses React js</p>
+                     <a href="https://lauramayar.github.io/Boscheck/#/" target="_blank"><img src="https://i.ibb.co/YWbK2BJ/ezgif-com-gif-maker-1.gif" className="lab" alt="Login"/></a>
+                      
                       </div> 
                </li>
-                <li>
-                <div> 
-                <p>Type of purchase</p>
-                     <img src="https://i.ibb.co/PhN7Mdg/119065809-3284779475079553-5092200086129296373-n.jpg" className="mobile" alt="Login"/>      
-                      </div>
+               <li>
+                     <div className="lab"> 
+                     <p>Data Lovers</p>
+                     <p>Website for Rick Sanchez be able to filter and sort all characters in Rick and Morty by gender, status (dead, alive, unknown) and by alphabetical order, also shows stats and charts with that data. Uses array methods for showing data</p>
+                     <a href="https://izayura.github.io/GDL003-data-lovers/src/" target="_blank"><img src="https://i.ibb.co/WvrzkhB/ezgif-com-gif-maker-4.gif" className="lab" alt="Login"/></a>
+                      
+                      </div> 
                </li>
                <li>
-                <div> 
-                     <p>Home / Discounts</p>
-                     <img src="https://i.ibb.co/gDh2G9g/119049127-322927885820823-7701579084192024024-n.jpg" className="mobile" alt="Login"/>      
-                      </div>
+                     <div className="lab"> 
+                     <p>Burger Queen</p>
+                     <p>Web app for ordering food at a space thematic restaurant, for tablets. Uses React js</p>
+                     <a href="https://azul-de-prusia.github.io/Burger-Queen/" target="_blank"><img src="https://i.ibb.co/zZnjSN8/ezgif-com-gif-maker-3.gif" className="lab1" alt="Login"/></a>
+                      
+                      </div> 
                </li>
                <li>
-                <div>
-                <p>Menu</p> 
-                     <img src="https://i.ibb.co/Qn5TP78/119224327-361926661503083-210365378043636399-n.jpg" className="mobile" alt="Login"/>      
-                      </div>
+                     <div className="lab"> 
+                     <p>Ceasar cipher</p>
+                     <p>Website for enconding and decoding info, this was my first project and I did it as an art sale galery for undercovering the sale buy of illegal art.</p>
+                     <a href="https://azul-de-prusia.github.io/GDL003-cipher/src/" target="_blank"><img src="https://i.ibb.co/dG5bNj7/ezgif-com-gif-maker-2.gif" className="lab" alt="Login"/></a>
+                      
+                      </div> 
                </li>
-               <li>
-                <div> 
-                <p>Cart</p> 
-                     <img src="https://i.ibb.co/qgmCC1k/119069809-3282965715105768-7647484568719969072-n.jpg" className="mobile" alt="Login"/>      
-                      </div>
-               </li>
-               <li>
-                <div> 
-                <p>Schedule delivery</p> 
-                     <img src="https://i.ibb.co/JF67n9T/118477543-611451976401291-6753595629253471332-n.jpg" className="mobile" alt="Login"/>      
-                      </div>
-               </li>  
-               <li>
-                <div> 
-                <p>Profile</p> 
-                     <img src="https://i.ibb.co/nccjjBM/119036733-630228294593453-1784012360415156964-n.jpg" className="mobile" alt="Login"/>      
-                      </div>
-               </li>
+              
                </ul>           
             </div>
 

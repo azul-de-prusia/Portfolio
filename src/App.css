@@ -48,9 +48,9 @@ margin: 10px;
 .mdlink{
 height: 160px;
 width: 250px;
-border: rgb(2, 10, 35) 8px solid;
-margin: 10px;
-
+/*border: rgb(2, 10, 35) 8px solid;
+margin: 3px;
+*/
 }
  .burger{
 height: 250px;
@@ -329,9 +329,12 @@ width: 50px;
   height: 260px;
 }
 .lab{
-  width: 432px;
-}
+  width: 450px;
 
+}
+.lab1{
+  height: 300px;
+}
 @media (max-width: 496px) and (max-height: 736px) {
 .paragraph{
   width: 80%;
