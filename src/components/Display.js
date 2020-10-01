@@ -16,7 +16,7 @@ render() {
                 <p className='sub'>Amco UI / UX projects sample. </p>
                 <p>English method interfaces for websites and native apps for users as teachers, students, parents, school admins, etc.</p>
                 <Link to="/Amco" >
-                <img src="https://www.tomasmoro.ec/wp-content/uploads/2019/06/AMCO.png" className="mdlink" alt="Burger Queen"/> </Link>
+                <img src="https://lh3.googleusercontent.com/proxy/cQXtKIfn5epkqCgOEgRw9AnHeha5BmucQd1N9YxC76D4pbdJJ22Iv9Io7ESL4wHad-s_4jLyVMynPvNCNRdXeBSxdEy2C7DCrPkl2LlvdLBZkINwhOH5gsHX" className="mdlink" alt="Burger Queen"/> </Link>
                
             </div>
             </li>

@@ -7,11 +7,17 @@ class Amco extends Component{
             <div className="linkscontainer">
                 <h1>Amco</h1>
                 <ul>
-                         <p>I'm sorry!</p>
+                         
                          <p>
-                              The company Amco has not provided me any evidence images about my works here, so I only have some ugly pictures I took with my phone :c</p>
+                              In this company I worked prototyping and wireframing websites for desktop, mobile and native apps. I also did some research and collaborate with designs for labels, emails, empty states / error images and copywriting.</p>
                         
             
+                              <li>
+                     <div> 
+                     <p>Happy mobile wireframes sample</p>
+                     <img src="https://i.ibb.co/3cky21P/ezgif-com-gif-maker-7.gif" className="mobile1" alt="Login"/>
+                      </div>
+               </li>
                 <li>
                      <div> 
                      <p>Happy project mobile mockups</p>
@@ -20,20 +26,21 @@ class Amco extends Component{
                </li>
                <li>
                      <div> 
-                     <p>Happy project mobile mockup</p>
-                     <img src="https://i.ibb.co/Kqs6PQ3/120064800-327346601663061-5989793105231017395-n.jpg" className="screenm" alt="Login"/>
+                     <p>Happy project mockups sample</p>
+                     <img src="https://i.ibb.co/YT215DJ/ezgif-com-gif-maker-8.gif" className="screenw" alt="Login"/>
+                      </div>
+               </li>
+             
+                <li>
+                     <div> 
+                     <p className="text">Web Solution - UI sample. Website for students access to content and to manage schools amco services</p>
+                     <img src="https://i.ibb.co/b3W5c6b/ezgif-com-gif-maker-6.gif" className="screenw" alt="Login"/>
                       </div>
                </li>
                <li>
                      <div> 
-                     <p>Happy project mobile wireframes</p>
-                     <img src="https://i.ibb.co/s5pksV1/120089111-335803144360123-13814188600333288-n.jpg" className="screenw" alt="Login"/>
-                      </div>
-               </li>
-                <li>
-                     <div> 
-                     <p>Web Solution - Content UI</p>
-                     <img src="https://i.ibb.co/KXTXC26/119942541-330667385052444-6743317174499291501-n.jpg" className="screenw" alt="Login"/>
+                     <p>User personas sample</p>
+                     <img src="https://i.ibb.co/0X0H3PD/ezgif-com-gif-maker-5.gif" className="screenw" alt="Login"/>
                       </div>
                </li>
              </ul>            

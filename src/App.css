@@ -335,6 +335,13 @@ width: 50px;
 .lab1{
   height: 300px;
 }
+
+.text{
+  width: 432px;
+}
+.mobile1{
+  width: 257px;
+}
 @media (max-width: 496px) and (max-height: 736px) {
 .paragraph{
   width: 80%;
