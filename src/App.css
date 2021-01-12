@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
 .App {
   text-align: center;
   background-color: black;
@@ -35,7 +41,6 @@
 .Cipher{
 height: 160px;
 width: 250px;
-border: rgb(2, 10, 35) 4px solid;
 margin: 10px;
 
 } 
@@ -48,9 +53,14 @@ margin: 10px;
 .mdlink{
 height: 160px;
 width: 250px;
-/*border: rgb(2, 10, 35) 8px solid;
-margin: 3px;
-*/
+
+
+}
+.long {
+  width: 250px;
+}
+#href{
+  color:aquamarine;
 }
  .burger{
 height: 250px;

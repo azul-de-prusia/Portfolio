@@ -10,6 +10,7 @@ import Skills from './components/Skills';
 import Tipsi from './components/tipsi';
 import Amco from './components/amco';
 import Laboratoria from './components/laboratoria';
+import Taycan from './components/Taycan';
 
 
 
@@ -27,6 +28,7 @@ const Routes = () => (
       <Route path="/Useless" component ={Useless}/>
       <Route path="/Skills" component ={Skills}/>
       <Route path="/Tipsi" component={Tipsi}/>
+      <Route path="/Taycan" component={Taycan}/>
       <Route path="/Amco" component={Amco}/>
       <Route path="/Laboratoria" component={Laboratoria}/>
       
